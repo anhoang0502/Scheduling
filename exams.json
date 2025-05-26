@@ -1,0 +1,23 @@
+[
+    {"name": "Toán Cao Cấp", "students": 150, "duration": 3.5},
+    {"name": "Vật Lý Đại Cương", "students": 180, "duration": 2.0},
+    {"name": "Hóa Học", "students": 560, "duration": 2.5},
+    {"name": "Cơ Sở Lập Trình", "students": 200, "duration": 4.0},
+    {"name": "Cơ Sở Dữ Liệu", "students": 220, "duration": 3.0},
+    {"name": "Toán Rời Rạc", "students": 45, "duration": 1.5},
+    {"name": "Giải Tích", "students": 130, "duration": 3.0},
+    {"name": "Mạng Máy Tính", "students": 70, "duration": 2.25},
+    {"name": "Hệ Điều Hành", "students": 110, "duration": 3.5},
+    {"name": "Lập Trình Hướng Đối Tượng", "students": 85, "duration": 2.75},
+    {"name": "Toán Thống Kê", "students": 55, "duration": 2.0},
+    {"name": "Kỹ Thuật Số", "students": 40, "duration": 1.0},
+    {"name": "Xử Lý Ảnh", "students": 35, "duration": 1.5},
+    {"name": "Trí Tuệ Nhân Tạo", "students": 1020, "duration": 3.25},
+    {"name": "Thuật Toán", "students": 95, "duration": 2.75},
+    {"name": "Cấu Trúc Dữ Liệu", "students": 180, "duration": 3.75},
+    {"name": "An Toàn Thông Tin", "students": 350, "duration": 2.0},
+    {"name": "Phân Tích Số Liệu", "students": 65, "duration": 2.5},
+    {"name": "Điện Tử", "students": 55, "duration": 2.0},
+    {"name": "Kỹ Thuật Mạng", "students": 100, "duration": 3.0},
+    {"name": "PTBV", "students": 1000, "duration": 1.0}
+]
